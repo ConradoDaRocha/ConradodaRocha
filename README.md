@@ -9,5 +9,7 @@
 
  #### Let's connect
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/conradodarocha/)](https://www.linkedin.com/in/conradodarocha/)
-[![Gmail Badge](https://img.shields.io/badge/-email-bb7df5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:conrado.rocha3293@gmail.com)](mailto:conrado.rocha3293@gmail.com)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conrado.rocha3293@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ConradoDaRocha/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/conrado_darocha/)
