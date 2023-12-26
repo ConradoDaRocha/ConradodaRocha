@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 💻 Learning web dev focused on front end.
-- 📚 Systems Analyst & Development Student 4/4.
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conradodarocha&layout=compact)](https://github.com/conradodarocha/github-readme-stats)
 
